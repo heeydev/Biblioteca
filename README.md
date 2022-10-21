@@ -7,7 +7,7 @@
  
 <p align="center">
   <!-- C# -->
-  <a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp">
+  <a href="https://github.com/heeydev/Material-de-Estudo/tree/master/Todos%20os%20Materiais/C%20Sharp">
     <img src="./assets/csharp.svg" alt="csharp" tittle="C#" width="70" height="70">
   
 Clique no logotipo da linguagem para conferir soluções que ainda não estão listadas abaixo:
@@ -17,13 +17,13 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
     <summary><strong>C Sharp</strong></summary>
     <br />
     <div align="left">
-        <!-- Desafios - BootCamp Pottencial .NET Developer -->
+        <!-- BootCamp Pottencial .NET Developer -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.dio.me/track/pottencial-net-developer">Desafios - BootCamp Pottencial .NET Developer</a></th>
+                <th colspan="3"><a href="https://web.dio.me/track/pottencial-net-developer">BootCamp Pottencial .NET Developer</a></th>
             </tr>
             <tr>
-                <th colspan="3">BootCamp Pottencial .NET Developer</th>
+                <th colspan="3">Projetos - BootCamp Pottencial .NET Developer</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -31,58 +31,23 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th>Status</th>
             </tr>
             <tr>
-                <td>Projeto Estacionamento</td>
-                <td><a href="https://github.com/heeydev/Material-de-Estudo/tree/master/Desafios/C%20Sharp/Desafios%20-%20Banco%20Carrefour%20Woman%20Developer/C%C3%A1lculo%20Simples">Código</a></td>
+                <td>Projeto de Estacionamento</td>
+                <td><a href="https://github.com/heeydev/Material-de-Estudo/tree/master/Todos%20os%20Materiais/C%20Sharp/BootCamp%20Pottencial%20.NET%20Developer/DesafioProjetoEstacionamento">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td>Fórmula de Bhaskara</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20-%20Banco%20Carrefour%20Woman%20Developer/F%C3%B3rmula%20de%20Bhaskara">Código</a></td>
+                <td>Projeto de Hospedagem</td>
+                <td><a href="https://github.com/heeydev/Material-de-Estudo/tree/master/Todos%20os%20Materiais/C%20Sharp/BootCamp%20Pottencial%20.NET%20Developer/DesafioProjetoHospedagem">Código</a></td>
                 <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Ho Ho Ho</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20-%20Banco%20Carrefour%20Woman%20Developer/Ho%20Ho%20Ho">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Média 2</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20-%20Banco%20Carrefour%20Woman%20Developer/M%C3%A9dia%202">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Pneu</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20-%20Banco%20Carrefour%20Woman%20Developer/Pneu">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Polígonos Regulares Simples</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20-%20Banco%20Carrefour%20Woman%20Developer/Pol%C3%ADgonos%20Regulares%20Simples">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>	
-            <tr>
-                <td>PUM</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20-%20Banco%20Carrefour%20Woman%20Developer/PUM">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Quadrado e ao Cubo</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20-%20Banco%20Carrefour%20Woman%20Developer/Quadrado%20e%20ao%20Cubo">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Tabuada</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20-%20Banco%20Carrefour%20Woman%20Developer/Tabuada">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>			
+            </tr>            			
         </table>  		
-        <!-- Desafios .NET - Aceleração Global Dev 21 - GFT -->
+        <!-- Desafios de Cálculo BootCamp Pottencial .NET Developer -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/desafios-java-aceleracao-global-dev-21-gft/algorithm/fibonacci-facil?back=/tests/d32632f6-a3f6-4081-a64b-6397e9d02f15">Desafios .NET - Aceleração Global Dev 21 - GFT</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-basicos-c-pottencial/algorithm/subtraindo-o-produto-e-a-soma-de-um-numero-inteiro?back=/track/pottencial-net-developer&tab=undefined&moduleId=undefined">Desafios BootCamp Pottencial .NET Developer</a></th>
             </tr>
-            <tr>
-                <th colspan="3"></th>
+	    <tr>
+                <th colspan="3">Nível: Básico</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -90,28 +55,28 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th>Status</th>
             </tr>
             <tr>
-                <td>Fibonacci Fácil</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20.NET%20-%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2321%20-%20GFT/Fibonacci%20F%C3%A1cil">Código</a></td>
+                <td>Encaixa ou Não?</td>
+                <td><a href="https://github.com/heeydev/Material-de-Estudo/tree/master/Todos%20os%20Materiais/C%20Sharp/Desafios/C%C3%A1lculo%20B%C3%A1sico/EncaixaOuNaoEncaixa">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td>Número Perfeito</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20.NET%20-%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2321%20-%20GFT/N%C3%BAmero%20Perfeito">Código</a></td>
+                <td>Três Divisores</td>
+                <td><a href="https://github.com/heeydev/Material-de-Estudo/tree/master/Todos%20os%20Materiais/C%20Sharp/Desafios/C%C3%A1lculo%20B%C3%A1sico/TresDivisores">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td>Preenchimento de Vetor II</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20.NET%20-%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2321%20-%20GFT/Preenchimento%20de%20Vetor%20II">Código</a></td>
+                <td>Subtraindo o Produto e a soma de um número inteiro</td>
+                <td><a href="https://github.com/heeydev/Material-de-Estudo/tree/master/Todos%20os%20Materiais/C%20Sharp/Desafios/C%C3%A1lculo%20B%C3%A1sico/VariacoesNumeroInteiro">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
-        </table>  
-        <!-- Desafios C# - Aceleração Global Dev 16 - Avanade -->
+	    </table>   
+        <!-- Desafios Intermediários BootCamp Pottencial .NET Developer -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/desafios-c-aceleracao-global-dev-16-avanade/algorithm/feliz-nataaal?back=/tests/1d66f99c-21b1-4d68-b281-172e959666db">Desafios C# - Aceleração Global Dev 16 - Avanade</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-de-codigo-intermediario-c-pottencial/algorithm/elemento-majoritario?back=/track/pottencial-net-developer&tab=undefined&moduleId=undefined">Desafios BootCamp Pottencial .NET Developer</a></th>
             </tr>
-            <tr>
-                <th colspan="3">Aceleração Global Dev 16 Avanade</th>
+	    <tr>
+                <th colspan="3">Nível: Intermediário</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -119,28 +84,28 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th>Status</th>
             </tr>
             <tr>
-                <td>Feliz Nataaal!</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2316%20Avanade/Feliz%20Nataaal!">Código</a></td>
+                <td>Elemento Majoritário</td>
+                <td><a href="https://github.com/heeydev/Material-de-Estudo/tree/master/Todos%20os%20Materiais/C%20Sharp/Desafios/Intermedi%C3%A1rios/Elemento%20Majoritario">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td>Galopeira</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2316%20Avanade/Galopeira">Código</a></td>
+                <td>Aumento de Salário</td>
+                <td><a href="https://github.com/heeydev/Material-de-Estudo/tree/master/Todos%20os%20Materiais/C%20Sharp/Desafios/Intermedi%C3%A1rios/Aumento%20de%20Sal%C3%A1rio">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td>Top N</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2316%20Avanade/Top%20N">Código</a></td>
+                <td>A corrida das Tartarugas</td>
+                <td><a href="https://github.com/heeydev/Material-de-Estudo/tree/master/Todos%20os%20Materiais/C%20Sharp/Desafios/Intermedi%C3%A1rios/A%20corrida%20das%20Tartarugas">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
-        </table>   
-        <!-- Desafio C# - Aceleração Global Dev 16 Capgemini -->
+        </table>	
+        <!-- Plataforma BeeCrowd -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/desafio-c-aceleracao-global-dev-16-capgemini/algorithm/area?back=/tests/cc6ca2ad-fd79-4108-b6d1-ab1af4ba81a4">Desafio C# - Aceleração Global Dev 16 Capgemini</a></th>
+                <th colspan="3"><a href="https://www.beecrowd.com.br/judge/en/search">Plataforma BeeCrowd</a></th>
             </tr>
             <tr>
-                <th colspan="3">Aceleração Global Dev 16 Capgemini</th>
+                <th colspan="3">Desafios BeeCrowd</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -148,20 +113,10 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th>Status</th>
             </tr>
             <tr>
-                <td>Área</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2316%20Capgemini/%C3%81rea">Código</a></td>
+                <td>Desafios para Iniciantes</td>
+                <td><a href="https://github.com/heeydev/Material-de-Estudo/tree/master/Todos%20os%20Materiais/C%20Sharp/Desafios/Plataforma%20BeeCrowd">Código</a></td>
                 <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Fatorial Simples</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2316%20Capgemini/Fatorial%20Simples">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>O Filme</td>
-                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/C%20Sharp/Desafios%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2316%20Capgemini/O%20Filme">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
+            </tr>       
         </table>   		
 	    <!-- Desafios Aritméticos em C# -->
         <table border=1>
