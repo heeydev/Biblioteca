@@ -1,0 +1,15 @@
+F:\ProjetosGIT\Desafios\Intermediários\A corrida das Tartarugas\bin\Debug\net6.0\A corrida das Tartarugas.exe
+F:\ProjetosGIT\Desafios\Intermediários\A corrida das Tartarugas\bin\Debug\net6.0\A corrida das Tartarugas.deps.json
+F:\ProjetosGIT\Desafios\Intermediários\A corrida das Tartarugas\bin\Debug\net6.0\A corrida das Tartarugas.runtimeconfig.json
+F:\ProjetosGIT\Desafios\Intermediários\A corrida das Tartarugas\bin\Debug\net6.0\A corrida das Tartarugas.dll
+F:\ProjetosGIT\Desafios\Intermediários\A corrida das Tartarugas\bin\Debug\net6.0\A corrida das Tartarugas.pdb
+F:\ProjetosGIT\Desafios\Intermediários\A corrida das Tartarugas\obj\Debug\net6.0\A corrida das Tartarugas.csproj.AssemblyReference.cache
+F:\ProjetosGIT\Desafios\Intermediários\A corrida das Tartarugas\obj\Debug\net6.0\A corrida das Tartarugas.GeneratedMSBuildEditorConfig.editorconfig
+F:\ProjetosGIT\Desafios\Intermediários\A corrida das Tartarugas\obj\Debug\net6.0\A corrida das Tartarugas.AssemblyInfoInputs.cache
+F:\ProjetosGIT\Desafios\Intermediários\A corrida das Tartarugas\obj\Debug\net6.0\A corrida das Tartarugas.AssemblyInfo.cs
+F:\ProjetosGIT\Desafios\Intermediários\A corrida das Tartarugas\obj\Debug\net6.0\A corrida das Tartarugas.csproj.CoreCompileInputs.cache
+F:\ProjetosGIT\Desafios\Intermediários\A corrida das Tartarugas\obj\Debug\net6.0\A corrida das Tartarugas.dll
+F:\ProjetosGIT\Desafios\Intermediários\A corrida das Tartarugas\obj\Debug\net6.0\refint\A corrida das Tartarugas.dll
+F:\ProjetosGIT\Desafios\Intermediários\A corrida das Tartarugas\obj\Debug\net6.0\A corrida das Tartarugas.pdb
+F:\ProjetosGIT\Desafios\Intermediários\A corrida das Tartarugas\obj\Debug\net6.0\A corrida das Tartarugas.genruntimeconfig.cache
+F:\ProjetosGIT\Desafios\Intermediários\A corrida das Tartarugas\obj\Debug\net6.0\ref\A corrida das Tartarugas.dll

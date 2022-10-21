@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d4yuQeAW3dSt6SgiA409m1RSHK3ZAEiI2qnBAD6DO+9Rxxf5ByvTkJ5x2p08xWft8gIIFOD8bEm/l0TfS7rxEg==",
+  "success": true,
+  "projectFilePath": "G:\\ProjetosGIT\\ExemploExplorando\\ExemploExplorando.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\macie\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

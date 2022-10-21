@@ -1,0 +1,646 @@
+C:\Users\andre\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.AssemblyInfo.cs
+C:\Users\andre\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andre\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.RazorAssemblyInfo.cache
+C:\Users\andre\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.RazorAssemblyInfo.cs
+C:\Users\andre\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\staticwebassets\Cadastro.StaticWebAssets.Manifest.cache
+C:\Users\andre\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\staticwebassets\Cadastro.StaticWebAssets.xml
+C:\Users\andre\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\scopedcss\bundle\Cadastro.styles.css
+C:\Users\andre\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.TagHelpers.input.cache
+C:\Users\andre\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.TagHelpers.output.cache
+C:\Users\andre\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.RazorCoreGenerate.cache
+C:\Users\andre\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\andre\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\andre\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\andre\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\andre\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\andre\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\andre\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\andre\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.RazorTargetAssemblyInfo.cache
+C:\Users\andre\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.RazorTargetAssemblyInfo.cs
+C:\Users\andre\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.pdb
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.exe
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.deps.json
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.runtimeconfig.json
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.runtimeconfig.dev.json
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.pdb
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.Views.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.Views.pdb
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.Views.pdb
+C:\Users\andre\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.csproj.CopyComplete
+C:\Users\andre\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.genruntimeconfig.cache
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Clients\Index.cshtml.g.cs
+C:\Users\andre\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Clients\Details.cshtml.g.cs
+C:\Users\andre\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Clients\Create.cshtml.g.cs
+C:\Users\andre\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Clients\Edit.cshtml.g.cs
+C:\Users\andre\source\repos\Cadastro\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Clients\Delete.cshtml.g.cs
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\andre\source\repos\Cadastro\Cadastro\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\appsettings.json
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.exe
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.deps.json
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.runtimeconfig.json
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.runtimeconfig.dev.json
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.pdb
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.Views.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.Views.pdb
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.csprojAssemblyReference.cache
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.csproj.CoreCompileInputs.cache
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.MvcApplicationPartsAssemblyInfo.cache
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.RazorAssemblyInfo.cache
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.RazorAssemblyInfo.cs
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.AssemblyInfoInputs.cache
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.AssemblyInfo.cs
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.TagHelpers.input.cache
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.TagHelpers.output.cache
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.RazorCoreGenerate.cache
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Clients\Create.cshtml.g.cs
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Clients\Delete.cshtml.g.cs
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Clients\Details.cshtml.g.cs
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Clients\Edit.cshtml.g.cs
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Clients\Index.cshtml.g.cs
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.RazorTargetAssemblyInfo.cache
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.RazorTargetAssemblyInfo.cs
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.Views.pdb
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.csproj.CopyComplete
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\staticwebassets\Cadastro.StaticWebAssets.Manifest.cache
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\staticwebassets\Cadastro.StaticWebAssets.xml
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.dll
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.pdb
+C:\_Projetos\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.genruntimeconfig.cache
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.csproj.AssemblyReference.cache
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.GeneratedMSBuildEditorConfig.editorconfig
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.AssemblyInfoInputs.cache
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.AssemblyInfo.cs
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.csproj.CoreCompileInputs.cache
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.MvcApplicationPartsAssemblyInfo.cache
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.RazorAssemblyInfo.cache
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.RazorAssemblyInfo.cs
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.pdb
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\appsettings.json
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.StaticWebAssets.xml
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.exe
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.deps.json
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.runtimeconfig.json
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.runtimeconfig.dev.json
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.pdb
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.Views.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.Views.pdb
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\AutoMapper.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Humanizer.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\staticwebassets\Cadastro.StaticWebAssets.Manifest.cache
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.TagHelpers.input.cache
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.TagHelpers.output.cache
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.RazorCoreGenerate.cache
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Clients\Create.cshtml.g.cs
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Clients\Delete.cshtml.g.cs
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Clients\Details.cshtml.g.cs
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Clients\Edit.cshtml.g.cs
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Clients\Index.cshtml.g.cs
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.RazorTargetAssemblyInfo.cache
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.RazorTargetAssemblyInfo.cs
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.Views.pdb
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.csproj.CopyComplete
+F:\ProjetosGIT\TW_NetCoreCadastro_Remote_OrigN1\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.genruntimeconfig.cache
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\appsettings.json
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.StaticWebAssets.xml
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.exe
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.deps.json
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.runtimeconfig.json
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.runtimeconfig.dev.json
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.pdb
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.Views.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Cadastro.Views.pdb
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\AutoMapper.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Humanizer.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.csproj.AssemblyReference.cache
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.GeneratedMSBuildEditorConfig.editorconfig
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.AssemblyInfoInputs.cache
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.AssemblyInfo.cs
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.csproj.CoreCompileInputs.cache
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.MvcApplicationPartsAssemblyInfo.cache
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.RazorAssemblyInfo.cache
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.RazorAssemblyInfo.cs
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\obj\Debug\netcoreapp3.1\staticwebassets\Cadastro.StaticWebAssets.Manifest.cache
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.TagHelpers.input.cache
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.TagHelpers.output.cache
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.RazorCoreGenerate.cache
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Clients\Create.cshtml.g.cs
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Clients\Delete.cshtml.g.cs
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Clients\Details.cshtml.g.cs
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Clients\Edit.cshtml.g.cs
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Clients\Index.cshtml.g.cs
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.RazorTargetAssemblyInfo.cache
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.RazorTargetAssemblyInfo.cs
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.Views.pdb
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.csproj.CopyComplete
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.dll
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.pdb
+F:\ProjetosGIT\Hiago edit - TW_NetCoreCadastro_Remote_OrigN1 - Copia\Cadastro\obj\Debug\netcoreapp3.1\Cadastro.genruntimeconfig.cache

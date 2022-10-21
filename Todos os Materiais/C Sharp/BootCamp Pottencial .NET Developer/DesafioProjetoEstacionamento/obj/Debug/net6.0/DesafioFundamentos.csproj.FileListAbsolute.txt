@@ -1,0 +1,15 @@
+F:\ProjetosGIT\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.exe
+F:\ProjetosGIT\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.deps.json
+F:\ProjetosGIT\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.runtimeconfig.json
+F:\ProjetosGIT\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.dll
+F:\ProjetosGIT\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.pdb
+F:\ProjetosGIT\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.csproj.AssemblyReference.cache
+F:\ProjetosGIT\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+F:\ProjetosGIT\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfoInputs.cache
+F:\ProjetosGIT\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfo.cs
+F:\ProjetosGIT\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+F:\ProjetosGIT\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.dll
+F:\ProjetosGIT\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\refint\DesafioFundamentos.dll
+F:\ProjetosGIT\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.pdb
+F:\ProjetosGIT\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.genruntimeconfig.cache
+F:\ProjetosGIT\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\ref\DesafioFundamentos.dll
